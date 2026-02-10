@@ -1,6 +1,6 @@
-### Visit [My Website](https://asherhepner12.github.io)!
+# Visit [My Website](https://asherhepner12.github.io)!
 
-# My Projects
+
 
 ## Collaborative Repositories
 - [Feuille](https://github.com/Grovemeister/feuille) - Instant messaging app prioritizing user wellness
