@@ -1,15 +1,13 @@
-## Welcome to my github repository!
+### For my website, visit https://asherhepner12.github.io
 
-For my website, visit https://asherhepner12.github.io
+# My Projects:
 
-## My Projects:
-
-# Collaborative Repositories
+## Collaborative Repositories
 - Repo 1
 - Repo 2
 - Repo 3
 
-# Solo Repositories
+## Solo Repositories
 - Repo 1
 - Repo 2
 - Repo 3
