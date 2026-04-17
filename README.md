@@ -13,7 +13,7 @@
 ## Solo Repositories
 - [Simple Magix](https://github.com/asherhepner12/forge_tutorial) - Minecraft Forge modification test
 - [BMI Calculator](https://github.com/asherhepner12/Android-BMI-Computation) - Android app to calculate BMI
-
+- [Hill Cipher](https://github.com/asherhepner12/hillcipher) - Java script to encrypt/decrypt messages
 
 
 <!--
